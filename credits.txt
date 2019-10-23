@@ -1,4 +1,5 @@
 This webiste was based on: 
+Content based on: https://github.com/kamranayub/pluralsight-azure-cdn-with-storage
 https://www.pexels.com/photo/architectural-design-architecture-ceiling-chairs-380768/
 https://www.pexels.com/photo/adult-business-computer-contemporary-380769/
 https://www.pexels.com/photo/black-and-white-board-boardroom-business-260689/
