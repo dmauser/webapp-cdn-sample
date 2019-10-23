@@ -1,4 +1,4 @@
-# Sample CDN WebApp based on the following:
+# Sample CDN WebApp
 
 Static site image content is royalty free and available for any use through Pexels, see credits.txt but has been modifed to include:
 
