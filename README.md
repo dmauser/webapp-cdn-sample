@@ -1,6 +1,6 @@
 # Sample CDN WebApp
 
-Static site image content is royalty free and available for any use through Pexels, see credits.txt but has been modifed to include:
+Static site image content is royalty free and available for any use through Pexels, see credits.txt but has been modified to include:
 
 1) Desktop site with full size images.
 2) Mobile site with compressed size images.
