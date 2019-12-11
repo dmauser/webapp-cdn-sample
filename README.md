@@ -10,7 +10,7 @@ Static site image content is royalty free and available for any use through Pexe
 # Deployment
 **1. Use Azure Cloud Shell**
 
-Use https://shell.azure.com/ to execute the steps below. Make sure shell is using **Bash** (not PowerShell) because sequence below does not work on CLI running on Powershell.
+Use https://shell.azure.com/ to execute the steps below. Make sure shell is using *Bash* (not PowerShell) because sequence below does not work on CLI running on Powershell.
 <pre lang="...">
 #!/bin/bash
 #1. Defined variables. By default generates random Webapp name on Resource Group CDN-LAB. You may change mywebapp$RANDOM or RG to any name you wish.
