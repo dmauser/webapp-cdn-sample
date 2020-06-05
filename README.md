@@ -44,7 +44,7 @@ az storage blob upload-batch -s static -d \$web --account-name $Webappname
 <pre lang="...">
 az appservice plan create --name $Webappname-plan --resource-group $RG --sku B1
 az webapp create --name $Webappname --resource-group $RG -p $Webappname-plan 
-az webapp up --location eastus --name $Webappname --resource-group $RG
+az webapp up --location eastus --name $Webappname --resource-group $RG --htlm
 </pre>
 
 **6. Use results of the following command into a browser to see the web app**
